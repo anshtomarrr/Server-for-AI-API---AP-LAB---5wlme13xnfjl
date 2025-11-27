@@ -56,11 +56,6 @@ app.post("/api/gemini/prompt/send", async (req, res) => {
         )
   }
 
-
-
-
-
-
 });
 
 app.listen(port, () => {
